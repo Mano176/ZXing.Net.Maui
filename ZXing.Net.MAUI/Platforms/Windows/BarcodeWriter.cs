@@ -2,6 +2,7 @@
 using Microsoft.Maui.Platform;
 using Microsoft.UI.Xaml.Media.Imaging;
 using MauiColor = Microsoft.Maui.Graphics.Color;
+using Microsoft.Maui.ApplicationModel;
 
 namespace ZXing.Net.Maui;
 

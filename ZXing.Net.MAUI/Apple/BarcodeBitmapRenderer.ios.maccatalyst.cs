@@ -9,6 +9,7 @@ using Foundation;
 using CoreFoundation;
 using CoreGraphics;
 using UIKit;
+using Microsoft.Maui.ApplicationModel;
 
 namespace ZXing.Net.Maui
 {

@@ -26,6 +26,7 @@ using AView = Android.Views.View;
 using Android.Hardware;
 using static Android.Graphics.Paint;
 using AndroidX.Camera.Camera2.InterOp;
+using Microsoft.Maui.ApplicationModel;
 
 namespace ZXing.Net.Maui
 {
