@@ -6,6 +6,7 @@ using Microsoft.Maui.Graphics;
 using Microsoft.Maui.Graphics.Platform;
 using AColor = Android.Graphics.Color;
 using MauiColor = Microsoft.Maui.Graphics.Color;
+using Microsoft.Maui.ApplicationModel;
 
 namespace ZXing.Net.Maui
 {
